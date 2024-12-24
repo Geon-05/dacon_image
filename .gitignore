@@ -1,0 +1,14 @@
+data/
+dataset/
+model/
+saved_model/
+saved_models/
+output/
+test_input/
+train_gt/
+train_input/
+.ipynb_checkpoints/
+lightning_logs/
+log/
+result/
+tmp/
